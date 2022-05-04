@@ -1,0 +1,16 @@
+.footer{
+  /* deixa fixado no fim da página */
+  position: fixed;
+  bottom:0;
+
+  /* deixa o texto no fim da página mas do lado direito */
+  display:flex;
+  justify-content: flex-end;
+}
+
+.footer > span {
+ /* deixa a fonte pequena*/
+ font-size: 1rem;
+  /* tira o negrito */
+  font-weight: 300;
+}

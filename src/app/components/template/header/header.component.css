@@ -1,0 +1,22 @@
+.header{
+  display: flex;
+  align-items: center;
+}
+
+.header a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+
+.header .logo{
+  max-height: 32px;
+}
+
+.header .title-group{
+  padding-left: 35px;  /*espaçamento entre o logo e o titulo*/
+}
+
+.header .title-group i{
+  padding-right: 5px;  /*espaçamento entre o titulo e o simbolo*/
+}

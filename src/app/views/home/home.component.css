@@ -4,6 +4,11 @@
   line-height: 1.2;
 }
 
+.home .imagem{
+  max-height: 340px;
+}
+
+
 .home .subtitle{
   font-size: 1.1em;
 }
